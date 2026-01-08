@@ -5,8 +5,8 @@ export const GADGETS: Gadget[] = [
   {
     id: '1',
     title: 'LED Matrix Glasses v2.0',
-    description: 'The exact glasses Toby wears in his intros. Fully customizable via Bluetooth.',
-    image: 'https://picsum.photos/seed/gadget1/600/600',
+    description: 'De iconische bril uit de video! Volledig aanpasbaar via Bluetooth met de Toby-stijl cirkel animaties.',
+    image: 'https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?auto=format&fit=crop&q=80&w=600',
     tag: 'Toby\'s Choice',
     links: {
       usa: 'https://amazon.com',
@@ -17,8 +17,8 @@ export const GADGETS: Gadget[] = [
   {
     id: '2',
     title: 'Kinetic Desk Spinner',
-    description: 'Ultra-quiet aerospace grade aluminum spinner that defies gravity.',
-    image: 'https://picsum.photos/seed/gadget2/600/600',
+    description: 'Ultra-stille aerospace grade aluminium spinner die de zwaartekracht tart. Onze meest bevredigende test!',
+    image: 'https://images.unsplash.com/photo-1616422285623-13ff0167c95c?auto=format&fit=crop&q=80&w=600',
     tag: 'Most Satisfying',
     links: {
       usa: 'https://amazon.com',
@@ -29,8 +29,8 @@ export const GADGETS: Gadget[] = [
   {
     id: '3',
     title: 'Portable Plasma Lighter',
-    description: 'Windproof, fuel-free, and looks like it belongs in 2077.',
-    image: 'https://picsum.photos/seed/gadget3/600/600',
+    description: 'Winddicht, brandstofvrij en ziet eruit alsof het uit 2077 komt. Extreme duurzaamheidstest doorstaan.',
+    image: 'https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&q=80&w=600',
     tag: 'Extreme Test',
     links: {
       usa: 'https://amazon.com',
@@ -41,8 +41,8 @@ export const GADGETS: Gadget[] = [
   {
     id: '4',
     title: 'RGB Magnetic Sand Timer',
-    description: 'Magical sand that forms structural shapes with integrated lighting.',
-    image: 'https://picsum.photos/seed/gadget4/600/600',
+    description: 'Magisch zand dat structurele vormen vormt met geïntegreerde verlichting. Uniek in elke kamer.',
+    image: 'https://images.unsplash.com/photo-1518117648399-599298108464?auto=format&fit=crop&q=80&w=600',
     tag: 'Unique Find',
     links: {
       usa: 'https://amazon.com',
@@ -55,23 +55,23 @@ export const GADGETS: Gadget[] = [
 export const MERCH: MerchItem[] = [
   {
     id: 'm1',
-    title: 'Toby Buys Signature Hoodie',
+    title: 'Toby Buys Electric Blue Hoodie',
     price: '$59.99',
-    description: 'Premium heavyweight cotton hoodie. Electric blue with high-density logo print.',
-    image: 'https://picsum.photos/seed/hoodie1/600/800'
+    description: 'Dezelfde premium blauwe hoodie als in de video! Hoogwaardig katoen met reflecterend logo.',
+    image: 'https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&q=80&w=600'
   },
   {
     id: 'm2',
     title: 'Extreme Gear Test Tee',
     price: '$29.99',
-    description: 'Breathable tech-fabric t-shirt. Perfect for your own gear tests.',
-    image: 'https://picsum.photos/seed/tee1/600/800'
+    description: 'Ademend tech-fabric shirt. Perfect voor je eigen unboxing sessies.',
+    image: 'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&q=80&w=600'
   },
   {
     id: 'm3',
     title: 'LED Logo Cap',
     price: '$34.99',
-    description: 'Glow-in-the-dark "TOBY BUYS" embroidery with adjustable fit.',
-    image: 'https://picsum.photos/seed/cap1/600/800'
+    description: 'Glow-in-the-dark "TOBY BUYS" borduursel met verstelbare pasvorm.',
+    image: 'https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&q=80&w=600'
   }
 ];
